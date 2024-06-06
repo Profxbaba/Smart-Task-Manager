@@ -1,0 +1,20 @@
+{
+  "name": "smart-task-manager-master",
+  "version": "1.0.0",
+  "description": "The Smart Task Manager is an ambitious project aimed at improving task management for individuals and teams.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Profxbaba/Smart-Task-Manager.git"
+  },
+  "author": "Oluwashina Olaniyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Profxbaba/Smart-Task-Manager/issues"
+  },
+  "homepage": "https://github.com/Profxbaba/Smart-Task-Manager#readme"
+}
